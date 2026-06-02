@@ -2,7 +2,7 @@
 
 多端公用的在线便签，支持桌面/平板/手机，团队协作、富文本编辑、云同步。
 
-作者 **CaBa** · GitHub [@CaB520](https://github.com/CaB520)
+作者 **CaBa** · GitHub [@CaB520](https://github.com/CaBa520)
 
 ## 功能
 
